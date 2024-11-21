@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <name>color-awt</name>
+    <name>color-terminal</name>
     <description>Colors for terminal output.</description>
     <url>https://github.com/bowbahdoe/color-terminal</url>
 
