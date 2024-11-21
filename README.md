@@ -6,7 +6,7 @@ Colors for terminal output.
 <dependency>
     <groupId>dev.mccue</groupId>
     <artifactId>color-terminal</artifactId>
-    <version>2024.11.20.1</version>
+    <version>2024.11.20</version>
 </dependency>
 ```
 

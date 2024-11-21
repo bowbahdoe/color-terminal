@@ -1,7 +1,5 @@
 package dev.mccue.color.terminal;
 
-import dev.mccue.color.Color;
-
 import java.util.ArrayList;
 import java.util.List;
 
